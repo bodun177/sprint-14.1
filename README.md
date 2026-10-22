@@ -10,7 +10,7 @@ Change only `src/components/input/input.js`. Keep the existing HTML structure an
 
 A functional component is allowed.
 
-The component renders a Ukrainian mobile number in the form `+38 0XX XXXXXXX`:
+The component renders a Ukrainian mobile number in the form `+38 0XX XXXXXXX` :
 
 - `data-testid="operator-name"` — the operator name. It is empty until the operator code is complete.
 - the text `+38 0`
